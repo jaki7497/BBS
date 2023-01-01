@@ -1,0 +1,15 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Stylish&display=swap');
+
+* {
+	font-family: 'Stylish', sans-serif;
+}
+
+h1 {
+	font-family: 'Black Han Sans', sans-serif;
+}
+
+.carousel-inner .item img{
+	width: 1920px;
+ 	height: 600px;
+}
